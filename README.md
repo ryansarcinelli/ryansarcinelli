@@ -7,9 +7,10 @@
 🌐 Building projects and sharing my journey in tech<br/>
 
 <!-- GitHub stats -->
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansarcinelli&show_icons=true&theme=radical&count_private=true)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansarcinelli&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansarcinelli&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansarcinelli&layout=compact&theme=radical&cache_seconds=1800)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
