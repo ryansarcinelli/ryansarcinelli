@@ -1,7 +1,6 @@
 ## Hi, I'm Ryan Carlos Sarcinelli!
 
 💻 [Computer Science](https://informatica.ufes.br/sites/informatica.ufes.br/files/field/anexo/ppc-cc-2022.pdf) student at the [Federal University of Espírito Santo](https://www.ufes.br), Brazil<br/>
-👨‍💻 Experienced in Java, C, CSS, HTML, and JavaScript<br/>
 🚀 Passionate about software development, web design, and learning new technologies<br/>
 📘 Currently exploring advanced algorithms and web development techniques<br/>
 🌐 Building projects and sharing my journey in tech<br/>
